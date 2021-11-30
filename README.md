@@ -1,2 +1,4 @@
 # Dio
-Bootcamp - Fullstack
+Bootcamp - Fullstack MRV
+HTML -CSS - JAVASCRIPT
+.NET
